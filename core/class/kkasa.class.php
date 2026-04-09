@@ -841,7 +841,10 @@ class kkasa extends eqLogic {
 		}
 
 		public function getImage() {
-			return 'plugins/kkasa/docs/assets/images/' . $this->getImgFilePath();
+		// On nettoie le nom du fichier pour ne garder que le nom final (ex: hs110.png)
+		// au cas où getImgFilePath() renverrait encore l'ancien chemin complet.
+		$imageName = basename($this->getImgFilePath()); 
+		return 'plugins/kkasa/core/img/' . $imageName;
 		}
 
     /*     * *********************Méthodes d'instance************************* */
