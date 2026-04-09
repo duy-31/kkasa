@@ -26,7 +26,9 @@ Téléchargez l'archive du plugin (.zip) depuis la section Releases de ce GitHub
 
 Utilisez l'outil de gestion des plugins de Jeedom pour "Ajouter un plugin depuis un fichier" (si activé) ou transférez le dossier via FTP/SSH dans le répertoire /var/www/html/plugins/kkasa/.
 
-Important : Assurez-vous que les dépendances sont bien relancées après l'installation.
+<img width="727" height="365" alt="image" src="https://github.com/user-attachments/assets/6159fc47-79fc-4839-baf5-34f125ffccc7" />
+
+<img width="683" height="330" alt="image" src="https://github.com/user-attachments/assets/e4399b4e-05b9-4b8e-9c0d-eccd774ef90a" />
 
 📝 Changelog
 Version actuelle : Correction du bug d'Error 500 au chargement de l'interface.
