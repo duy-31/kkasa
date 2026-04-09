@@ -1,4 +1,5 @@
 Plugin KKASA pour Jeedom (Correctif PHP 8.2 & Python 3.11)
+
 Ce dépôt est un fork du plugin original kkasa (kavod/kkasa). Il intègre des correctifs critiques pour assurer la compatibilité avec les versions récentes de Jeedom et des environnements système modernes.
 
 🚀 Améliorations et Correctifs
