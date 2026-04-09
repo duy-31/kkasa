@@ -36,12 +36,12 @@ Le plugin a été confirmé opérationnel dans la configuration suivante :
 3.  **Via FTP/SSH** : Transférez le contenu du dossier dans le répertoire `/var/www/html/plugins/kkasa/`.
 4.  **Droits** : Assurez-vous que les droits sont corrects (propriétaire `www-data`).
 
-### Aperçu de la configuration
+### Activer l'envoi de fichier plugin
 <p align="center">
   <img width="727" alt="Configuration KKasa" src="https://github.com/user-attachments/assets/6159fc47-79fc-4839-baf5-34f125ffccc7">
 </p>
 
-### Liste des équipements
+### renseigner les champs comme ci dessous
 <p align="center">
   <img width="683" alt="Liste équipements" src="https://github.com/user-attachments/assets/e4399b4e-05b9-4b8e-9c0d-eccd774ef90a">
 </p>
